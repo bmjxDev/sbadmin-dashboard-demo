@@ -1,0 +1,19 @@
+{
+  "name": "sbadmin-dashboard-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmjxDev/sbadmin-dashboard-demo.git"
+  },
+  "author": "Brice Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmjxDev/sbadmin-dashboard-demo/issues"
+  },
+  "homepage": "https://github.com/bmjxDev/sbadmin-dashboard-demo#readme"
+}
